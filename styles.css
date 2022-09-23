@@ -1,0 +1,19 @@
+body {
+    font-size: 16px;
+}
+
+img {
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+.container {
+
+}
+
+.navbar {
+    display: flex;
+}
